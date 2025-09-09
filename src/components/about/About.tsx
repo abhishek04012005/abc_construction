@@ -78,7 +78,7 @@ const About = () => {
               </div>
               <div className={styles.valueItem}>
                 <h4>Integrity</h4>
-                <p>Operating with honesty and transparency in all dealings</p>
+                <p>Operating with honesty and transparency  all dealings</p>
               </div>
             </div>
           </div>
