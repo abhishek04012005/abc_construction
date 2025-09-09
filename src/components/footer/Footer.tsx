@@ -36,7 +36,7 @@ const Footer = () => {
           <div className={styles.contactInfo}>
             <p>VPO Haripur Sandholi, Baddi Road, Sandholi, Solan, Himachal Pradesh-173205</p>
             <p>Phone: 9882626050, 7018009352</p>
-            <p>Email: contact@sahconstructions.com</p>
+            <p>Email: contact@ABCconstructions.com</p>
           </div>
         </div>
 
@@ -59,7 +59,7 @@ const Footer = () => {
           </a>
         </div>
         <p className={styles.copyright}>
-          © {new Date().getFullYear()} Sah Constructions. All rights reserved.
+          © {new Date().getFullYear()} ABC Constructions. All rights reserved.
         </p>
       </div>
     </footer>

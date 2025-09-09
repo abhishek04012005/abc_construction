@@ -6,8 +6,8 @@ import { Metadata } from "next";
 import OGImage from "../../public/logo.png"
 
 export const metadata: Metadata = {
-  title: "Sah Constructions | Leading Construction Company in India",
-  description: "Sah Constructions offers expert construction services, industrial development, and project management solutions across India. Specializing in commercial, residential, and infrastructure projects since 2012.",
+  title: "ABC Constructions | Leading Construction Company in India",
+  description: "ABC Constructions offers expert construction services, industrial development, and project management solutions across India. Specializing in commercial, residential, and infrastructure projects since 2012.",
   keywords: [
     "construction company",
     "industrial construction",
@@ -16,11 +16,11 @@ export const metadata: Metadata = {
     "construction services India",
     "building contractors",
     "project management",
-    "Sah Construction"
+    "ABC Construction"
   ],
-  authors: [{ name: "Sah Constructions" }],
-  creator: "Sah Constructions",
-  publisher: "Sah Constructions",
+  authors: [{ name: "ABC Constructions" }],
+  creator: "ABC Constructions",
+  publisher: "ABC Constructions",
   formatDetection: {
     telephone: true,
     date: true,
@@ -30,22 +30,22 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://sahconstructions.com",
-    title: "Sah Constructions | Expert Construction Services",
+    url: "https://ABCconstructions.com",
+    title: "ABC Constructions | Expert Construction Services",
     description: "Leading construction company with 13+ years of excellence in commercial, industrial, and infrastructure development across India.",
-    siteName: "Sah Construction",
+    siteName: "ABC Construction",
     images: [
       {
         url: OGImage.src,
         width: 1200,
         height: 630,
-        alt: "Sah Construction Projects",
+        alt: "ABC Construction Projects",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Sah Construction | Leading Construction Company",
+    title: "ABC Construction | Leading Construction Company",
     description: "Expert construction services and project management solutions across India.",
     images: OGImage.src,
   },
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
   category: "Construction",
   alternates: {
-    canonical: "https://sahconstructions.com",
+    canonical: "https://ABCconstructions.com",
   },
 };
 

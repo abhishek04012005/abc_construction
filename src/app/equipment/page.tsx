@@ -2,9 +2,9 @@ import Equipment from '@/components/equipment/Equipment';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "Construction Equipment | Sah Constructions",
+  title: "Construction Equipment | ABC Constructions",
   description:
-    "Explore Sah Constructions' range of high-performance construction equipment, including earthmoving machinery, material handling tools, and roadwork solutions. Designed for efficiency, durability, and optimal project performance.",
+    "Explore ABC Constructions' range of high-performance construction equipment, including earthmoving machinery, material handling tools, and roadwork solutions. Designed for efficiency, durability, and optimal project performance.",
   keywords: [
     "construction equipment",
     "earthmoving machinery",
@@ -13,33 +13,33 @@ export const metadata: Metadata = {
     "industrial construction tools",
     "heavy equipment India",
     "building machinery",
-    "Sah Constructions equipment"
+    "ABC Constructions equipment"
   ],
-  authors: [{ name: "Sah Constructions" }],
-  creator: "Sah Constructions",
-  publisher: "Sah Constructions",
+  authors: [{ name: "ABC Constructions" }],
+  creator: "ABC Constructions",
+  publisher: "ABC Constructions",
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://sahconstructions.com/equipment",
-    title: "Construction Equipment | Sah Constructions",
+    url: "https://ABCconstructions.com/equipment",
+    title: "Construction Equipment | ABC Constructions",
     description:
-      "Discover Sah Constructions' advanced construction equipment for earthmoving, material handling, and roadwork projects across India.",
-    siteName: "Sah Constructions",
+      "Discover ABC Constructions' advanced construction equipment for earthmoving, material handling, and roadwork projects across India.",
+    siteName: "ABC Constructions",
     images: [
       {
         url: "/images/equipment-og.jpg",
         width: 1200,
         height: 630,
-        alt: "Sah Constructions Equipment Fleet",
+        alt: "ABC Constructions Equipment Fleet",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Construction Equipment | Sah Constructions",
+    title: "Construction Equipment | ABC Constructions",
     description:
-      "Explore Sah Constructions' range of high-performance construction equipment for projects across India.",
+      "Explore ABC Constructions' range of high-performance construction equipment for projects across India.",
     images: ["/images/equipment-twitter.jpg"],
   },
   viewport: {
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://sahconstructions.com/equipment",
+    canonical: "https://ABCconstructions.com/equipment",
   },
 };
 

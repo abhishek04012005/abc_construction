@@ -1,6 +1,6 @@
 import Image, { StaticImageData } from "next/image";
 import styles from "./director.module.css";
-import Director1Image from '../../assets/director/director1.jpeg'
+import Director1Image from '../../assets/director/profile.png'
 
 
 
@@ -18,14 +18,14 @@ interface DirectorItem {
 
 const directorData: DirectorItem[] = [
   {
-    title: "Mr. Ashok Kumar Sah",
+    title: "Mr. Pradeep Sharma",
     role: "Proprietorship",
     description:
       "With over 13+ years of experience in construction management and development.",
     image: Director1Image,
     socialLinks: {
       linkedin: "https://linkedin.com/in/johnsmith",
-      email: "contact@sahconstructions.com",
+      email: "contact@ABCconstructions.com",
     },
   }
 ];

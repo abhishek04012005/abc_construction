@@ -8,7 +8,7 @@ export const dynamic = 'force-static';
 export const revalidate = 3600; // revalidate every hour
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://sahconstructions.com';
+  const baseUrl = 'https://ABCconstructions.com';
   const lastModified = new Date().toISOString();
 
   // Static routes

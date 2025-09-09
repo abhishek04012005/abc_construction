@@ -3,11 +3,11 @@ import { Metadata } from 'next';
 
 
 export const metadata: Metadata = {
-  title: "Contact Sah Constructions | Get in Touch for Your Next Project",
+  title: "Contact ABC Constructions | Get in Touch for Your Next Project",
   description:
-    "Reach out to Sah Constructions for expert construction services, project consultations, and partnership opportunities across India. Let's build something extraordinary together.",
+    "Reach out to ABC Constructions for expert construction services, project consultations, and partnership opportunities across India. Let's build something extraordinary together.",
   keywords: [
-    "contact Sah Constructions",
+    "contact ABC Constructions",
     "construction company contact India",
     "get a construction quote",
     "building contractors India",
@@ -16,31 +16,31 @@ export const metadata: Metadata = {
     "infrastructure development contact",
     "commercial and residential construction India"
   ],
-  authors: [{ name: "Sah Constructions" }],
-  creator: "Sah Constructions",
-  publisher: "Sah Constructions",
+  authors: [{ name: "ABC Constructions" }],
+  creator: "ABC Constructions",
+  publisher: "ABC Constructions",
   openGraph: {
     type: "website",
     locale: "en_IN",
-    url: "https://sahconstructions.com/contact",
-    title: "Contact Sah Constructions | Let's Build Together",
+    url: "https://ABCconstructions.com/contact",
+    title: "Contact ABC Constructions | Let's Build Together",
     description:
-      "Get in touch with Sah Constructions for inquiries, project discussions, and expert construction solutions across India.",
-    siteName: "Sah Constructions",
+      "Get in touch with ABC Constructions for inquiries, project discussions, and expert construction solutions across India.",
+    siteName: "ABC Constructions",
     images: [
       {
         url: "/images/contact-og.jpg",
         width: 1200,
         height: 630,
-        alt: "Contact Sah Constructions Office",
+        alt: "Contact ABC Constructions Office",
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Contact Sah Constructions",
+    title: "Contact ABC Constructions",
     description:
-      "Reach out to Sah Constructions for expert construction services and project consultations across India.",
+      "Reach out to ABC Constructions for expert construction services and project consultations across India.",
     images: ["/images/contact-twitter.jpg"],
   },
   viewport: {
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://sahconstructions.com/contact",
+    canonical: "https://ABCconstructions.com/contact",
   },
 };
 

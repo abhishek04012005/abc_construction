@@ -25,15 +25,15 @@ export async function generateMetadata(
   }
 
   return {
-    title: `${project.title} | Sah Constructions`,
+    title: `${project.title} | ABC Constructions`,
     description: project.description,
     openGraph: {
-      title: `${project.title} | Sah Constructions`,
+      title: `${project.title} | ABC Constructions`,
       description: project.description,
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${project.title} | Sah Constructions`,
+      title: `${project.title} | ABC Constructions`,
       description: project.description,
     }
   };

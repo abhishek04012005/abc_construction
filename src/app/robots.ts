@@ -11,6 +11,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/admin/', '/private/'],
     },
-    sitemap: 'https://sahconstructions.com/sitemap.xml',
+    sitemap: 'https://ABCconstructions.com/sitemap.xml',
   };
 }
