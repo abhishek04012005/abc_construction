@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import styles from './navbar.module.css';
 import Image from 'next/image';
-import Logo from '../../assets/logo.png';
+import Logo from '../../assets/logo.svg';
 
 interface NavItem {
   id: number;
