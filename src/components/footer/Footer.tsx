@@ -34,7 +34,7 @@ const Footer = () => {
         <div className={styles.footerSection}>
           <h4>Contact Info</h4>
           <div className={styles.contactInfo}>
-            <p>VPO Haripur Sandholi, Baddi Road, Sandholi, Solan, Himachal Pradesh-173205</p>
+            <p>Sheetal Nagar, Vijay Nagar, Indore, MP-402010</p>
             <p>Phone: 9263767441</p>
             <p>Email: contact@abcconstructions.com</p>
           </div>
